@@ -1,0 +1,16 @@
+{
+  "name": "superdatabse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gorkem",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "mongoose": "^6.0.14",
+    "request": "^2.88.2"
+  }
+}
